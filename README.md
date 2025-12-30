@@ -23,20 +23,6 @@ Developing AI diagnostic systems for dental clinics using computer vision and de
 
 ## Featured Projects
 
-### AI Dental Diagnostic Platform
-Production computer vision system for dental pathology detection.
-
-- YOLOv11-based detection achieving 92% accuracy
-- Deployed across multiple clinic locations
-- Processing 500+ diagnostic scans monthly
-- 60% reduction in diagnostic time
-
-**Tech:** PyTorch, YOLOv11, Azure ML, FastAPI, Docker, Kubernetes
-
-[View Project →](https://github.com/Kannansekar/ai-dental-diagnostic)
-
----
-
 ### AI WhatsApp Commerce Bot with RAG
 Intelligent e-commerce assistant using GPT-4 and vector search.
 
@@ -60,8 +46,22 @@ Modular AI agent system for autonomous task execution and workflow automation.
 - Extensible framework with memory and context tracking
 - Built-in tool integration and autonomous agent workflows
 
-Tech: Python, LangChain, OpenAI, HuggingFace, Jupyter Notebooks
+**Tech:** Python, LangChain, OpenAI, HuggingFace, Jupyter Notebooks
+
 [View Project →](https://github.com/Kannansekar/AI-Agents-with-Gen-AI)
+
+---
+
+### AI Dental Diagnostic Platform
+Production computer vision system for dental pathology detection.
+
+- YOLOv11-based detection achieving 92% accuracy
+- Deployed across multiple clinic locations
+- Processing 500+ diagnostic scans monthly
+- 60% reduction in diagnostic time
+
+**Tech:** PyTorch, YOLOv11, Azure ML, FastAPI, Docker, Kubernetes
+
 
 ---
 
