@@ -51,6 +51,20 @@ Intelligent e-commerce assistant using GPT-4 and vector search.
 
 ---
 
+### AI Agents Framework with Generative AI
+Modular AI agent system for autonomous task execution and workflow automation.
+
+- Multi-agent architecture supporting various specialized agents
+- Document QA, health planning, investment strategy, legal assistance
+- Supports multiple LLM providers (OpenAI, HuggingFace, DeepSeek)
+- Extensible framework with memory and context tracking
+- Built-in tool integration and autonomous agent workflows
+
+Tech: Python, LangChain, OpenAI, HuggingFace, Jupyter Notebooks
+[View Project →](https://github.com/Kannansekar/AI-Agents-with-Gen-AI)
+
+---
+
 ## Technical Skills
 
 **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face Transformers  
