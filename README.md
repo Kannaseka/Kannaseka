@@ -91,7 +91,7 @@ I write about production AI systems, MLOps, and practical machine learning.
 - MLOps for Computer Vision Models
 - Azure ML Deployment Strategies
 
-[Read on Medium →](https://medium.com/@kannansekarr)
+[Read on Medium →](https://medium.com/@kannasekarr/)
 
 ---
 
